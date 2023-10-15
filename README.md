@@ -1,4 +1,4 @@
-# wallpaper
+# Advance Note Taking app
 
 A new Flutter project.
 
